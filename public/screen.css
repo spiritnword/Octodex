@@ -6,3 +6,18 @@ body {
   margin: 0;
   font: 16px / 1 sans-serif;
 }
+
+div img {
+  display: inline-block;
+  width: 375px;
+  height: 375px;
+  border: 1px solid grey;
+}
+
+.links {
+  padding: 10px;
+  font-weight: bold;
+  position: relative;
+  right: -5em;
+  border-radius: 1px;
+}
